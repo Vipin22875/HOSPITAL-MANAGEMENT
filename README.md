@@ -23,6 +23,12 @@
    import sqlite3
    ```
    
+   ## RUN THE CODE
+   
+   ```python
+   python3 loginpage.py
+   ```
+   
    ## Operating System :
     Windows 10
     Ubuntu 20.04
